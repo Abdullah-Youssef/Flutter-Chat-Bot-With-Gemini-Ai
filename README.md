@@ -4,4 +4,4 @@
 
 ### هنا [شرح طريقة ربط Flutter مع Gemini AI وعمل بوت محادثة](https://arabflutter.com/flutter-with-gemini-ai/) في موقع عرب فلاتر.
 
-![paymnet app](https://arabflutter.com/wp-content/uploads/2024/05/Flutter-With-Gemini-Ai.png)
+![chat_bot app](https://arabflutter.com/wp-content/uploads/2024/05/Flutter-With-Gemini-Ai.png)
